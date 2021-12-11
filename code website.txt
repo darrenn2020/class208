@@ -41,6 +41,14 @@ Code For Main Website:
 
 
 Code For Picture Website:
+<img src="https://i.gifer.com/origin/df/df2194fd5e3df54b35dff3b540daefc7_w200.gif" alt="Trulli" width="600" height="500">
+<p style="background-color:khaki;"> You Should Be Ashamed Of Yourself </p>
+<p style="background-color:khaki;"> By: Darren And Austin </p>
+
+<img src="https://media4.giphy.com/media/Xpj7V61MQ4wEQRub8c/200.gif" alt="Trulli" width="600" height="500">
+<p style="background-color:khaki;"> You May Be Bad At Typing, But At Least You Didn't Hack </p>
+<p style="background-color:khaki;"> By: Darren And Austin </p>
+
 <!DOCTYPE html>
 
 <html>
@@ -137,4 +145,3 @@ Code For Code Website:
 
 </body>
 </html>
-
