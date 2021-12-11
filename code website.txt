@@ -1,0 +1,140 @@
+*** All Code Used Was HTML Code ***
+	By: Darren And Austin
+
+<!DOCTYPE html>
+<html>
+<body>
+Code For Main Website:
+<!DOCTYPE html>
+<html>
+
+
+  <head>
+
+    <title> Greatest Website Ever </title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body style="background-color:powderblue;">
+    <p style="background-color:khaki;">The Harsh Truth (To Other Classes)...</p>
+    <button type="button" onclick="alert('Sucker!')"> Press Button If Jealous Of Our Class </button>
+        <h1 style="color:green;"> Why This Class </h1>
+        <h1 style="color:red;"> Is The Best Class </h1>
+          <p style="color: darkslategray;"> By Darren (Code And Website) And Austin (Design And Text Ideas)
+        <script src="script.js"></script>
+     <p style="background-color:orange;"> The first reason why this class is because of the teachers. Mrs. Petropoulos and Mrs. Griffin are kind, funny and helpful. They bring life to this class even when students are discouraged. They are the best teachers we could have asked for.
+     <p style= "background-color:plum;"> The next reason why this class is the best class in the school is because of the students. The students in our class are kind, smart, and extremely helpful. They don't give up and are passionate about what they do.
+     <p style= "background-color:tan;"> As well as having the best teachers and students, this class is also loved by the lunch monitors! When they come to our class, they actually enjoy themselves. When we go outside, they are always yelling at the other classes, but for us, they just look in, say hi, and leave! They also like to spark conversations with us sometimes, which is really fun!
+     <p style= "background-color:snow;"> The final and most important reason our class is the best class in the entire school, is because of our temporary mascot. Whether you know it or not, Ebbie is the king of the classroom. As soon as he got here, things instantly got better. He brought his Christmas joy to our classroom. He made everyone happy.
+
+     <p style= "color:navy;"> Anyways, thanks for going to our website and reading. Have a great winter and a happy new year!
+
+     <p style= "color: green;"> Happy Holidays
+     <p style= "color:red;"> - Darren And Austin
+
+       <p><a href="file:///C:/Users/dnra0/OneDrive/Documents/pictures.html"> Surprise! </a></p>
+       <p><a href="file:///C:/Users/dnra0/OneDrive/Documents/code%20website.txt"> See Darren's Code </a></p>
+       <button type="button" onclick="alert('I bet You Were Surprised That This Button Did Nothing!')"> I bet You'll Be Surprised When You Press This Button!</button>
+  </body>
+
+</html>
+
+
+Code For Picture Website:
+<!DOCTYPE html>
+
+<html>
+<body>
+By: Darren And Austin
+
+<img src="https://www.rcboe.org/cms/lib/GA01903614/Centricity/Domain/7037/Teachers%20of%20the%20Year%20Logo.gif" alt="Trulli" width="400" height="333">
+
+<img src="https://c.tenor.com/7dUZg_XP-NwAAAAC/winter-break-school-holidays.gif" alt="Trulli" width="400" height="333">
+
+<img src="https://media2.giphy.com/media/cdL6fpE1rm1XMhXabs/200.gif?cid=95b27944ee33c4ad5ed3b59e73a7c2cd784f8b9a8f6a07d1&rid=200.gif&ct=ts" alt="Trulli" width="400" height="333">
+
+<img src="https://lh3.googleusercontent.com/-LLP_b7gmXfE/YaE3y0Z-PNI/AAAAAAAAAvM/lDO5hEsF4xQ6OoG945DIO2SZrUmXYwXtACMACGAYYCw/s1280/pixton-class-photo-ms-p-s-grade-6-7-class%2B%25283%2529.png" alt="Trulli" width="740" height="333">
+
+</body>
+</html>
+
+Code For Code Website:
+
+*** All Code Used Was HTML Code ***
+	By: Darren And Austin
+
+<!DOCTYPE html>
+<html>
+<body>
+Code For Main Website:
+<!DOCTYPE html>
+<html>
+
+
+  <head>
+
+    <title> Greatest Website Ever </title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body style="background-color:powderblue;">
+    <p style="background-color:khaki;">The Harsh Truth (To Other Classes)...</p>
+    <button type="button" onclick="alert('Sucker!')"> Press Button If Jealous Of Our Class </button>
+        <h1 style="color:green;"> Why This Class </h1>
+        <h1 style="color:red;"> Is The Best Class </h1>
+          <p style="color: darkslategray;"> By Darren (Code And Website) And Austin (Design And Text Ideas)
+        <script src="script.js"></script>
+     <p style="background-color:orange;"> The first reason why this class is because of the teachers. Mrs. Petropoulos and Mrs. Griffin are kind, funny and helpful. They bring life to this class even when students are discouraged. They are the best teachers we could have asked for.
+     <p style= "background-color:plum;"> The next reason why this class is the best class in the school is because of the students. The students in our class are kind, smart, and extremely helpful. They don't give up and are passionate about what they do.
+     <p style= "background-color:tan;"> As well as having the best teachers and students, this class is also loved by the lunch monitors! When they come to our class, they actually enjoy themselves. When we go outside, they are always yelling at the other classes, but for us, they just look in, say hi, and leave! They also like to spark conversations with us sometimes, which is really fun!
+     <p style= "background-color:snow;"> The final and most important reason our class is the best class in the entire school, is because of our temporary mascot. Whether you know it or not, Ebbie is the king of the classroom. As soon as he got here, things instantly got better. He brought his Christmas joy to our classroom. He made everyone happy.
+
+     <p style= "color:navy;"> Anyways, thanks for going to our website and reading. Have a great winter and a happy new year!
+
+     <p style= "color: green;"> Happy Holidays
+     <p style= "color:red;"> - Darren And Austin
+
+       <p><a href="file:///C:/Users/dnra0/OneDrive/Documents/pictures.html"> Surprise! </a></p>
+       <p><a href="file:///C:/Users/dnra0/OneDrive/Documents/code%20website.txt"> See Darren's Code </a></p>
+       <button type="button" onclick="alert('I bet You Were Surprised That This Button Did Nothing!')"> I bet You'll Be Surprised When You Press This Button!</button>
+  </body>
+
+</html>
+
+
+Code For Picture Website:
+<!DOCTYPE html>
+
+<html>
+<body>
+By: Darren And Austin
+
+<img src="https://www.rcboe.org/cms/lib/GA01903614/Centricity/Domain/7037/Teachers%20of%20the%20Year%20Logo.gif" alt="Trulli" width="400" height="333">
+
+<img src="https://c.tenor.com/7dUZg_XP-NwAAAAC/winter-break-school-holidays.gif" alt="Trulli" width="400" height="333">
+
+<img src="https://media2.giphy.com/media/cdL6fpE1rm1XMhXabs/200.gif?cid=95b27944ee33c4ad5ed3b59e73a7c2cd784f8b9a8f6a07d1&rid=200.gif&ct=ts" alt="Trulli" width="400" height="333">
+
+<img src="https://lh3.googleusercontent.com/-LLP_b7gmXfE/YaE3y0Z-PNI/AAAAAAAAAvM/lDO5hEsF4xQ6OoG945DIO2SZrUmXYwXtACMACGAYYCw/s1280/pixton-class-photo-ms-p-s-grade-6-7-class%2B%25283%2529.png" alt="Trulli" width="740" height="333">
+
+</body>
+</html>
+
+Code For Code Website:
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+</body>
+</html>
+
