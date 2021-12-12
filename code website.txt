@@ -1,5 +1,6 @@
 *** All Code Used Was HTML Code ***
 	By: Darren And Austin
+	(Code Might Be Edited Later)
 
 <!DOCTYPE html>
 <html>
@@ -70,7 +71,7 @@ Code For Main Website:
 
 </html>
 
-Code For The Picture Website:
+Code For The Picture Websites:
 
 <!DOCTYPE html>
 
