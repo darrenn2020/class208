@@ -14,9 +14,13 @@ Code For Login:
 
   <head>
     <script>
-      var passwd = window.prompt("Enter The Password To Get To Get To The Greatest Website Ever: ");
+      var passwd = window.prompt("Enter The Password To Get To The Greatest Website Ever: ");
       if (passwd == '6/7Class208') {
         window.location.href = 'class208.html'
+
+      } else if (passwd == 'Yifan'){
+        window.location.href = 'yifan.html'
+
       } else {
         window.location.href = 'unauthorized.htm'
       }
@@ -48,8 +52,8 @@ Code For Main Website:
     <p style="background-color:khaki;">The Harsh Truth (To Other Classes)...</p>
     <button type="button" onclick="alert('Sucker!')"> Press Button If Jealous Of Our Class </button> <br />
 
-        <font face = "Comic sans MS" size = "6" color = "green">Why This Class</font><br />
-        <font face = "Comic sans MS" size = "6" color = "red">Is The Best Class</font><br />
+        <font face = "Comic sans MS" size = "7" color = "green">Why This Class</font><br />
+        <font face = "Comic sans MS" size = "7" color = "red">Is The Best Class</font><br />
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC3oExgVPW1IXOzRGr1s2fQvV5fP9oWIYdzg&usqp=CAU" alt="Trulli" width="250" height="250">
           <p style="color: black;"> By Darren (Code And Website) And Austin (Design And Text Ideas)
           <h3>Mrs. Petropoulos' And Mrs. Griffin's Grade 6/7 Class</h3>
@@ -66,10 +70,19 @@ Code For Main Website:
 
        <p><a href="pictures.html"> Surprise! </a></p>
        <p><a href="code website.txt"> See Darren's Code </a></p>
-       <button type="button" onclick="alert('I Bet You Were Surprised That This Button Did Nothing!')"> I Bet You'll Be Surprised When You Press This Button!</button>
-  </body>
+       <p><a href="impressive.html"> Do You Want To See Something impressive? </a></p>
+       <button type="button" onclick="alert('I Bet You Were Surprised That This Button Did Nothing!')"> I Bet You'll Be Surprised When You Press This Button!</button><br />
+       <video width="320" height="240" controls>
+        <source src="video/nedflanders.mp4" type="video/mp4">
+      </video>
+       <form
+         action="https://docs.google.com/forms/d/17G2anm8Rsk7kFBZdom18DWrfpSnj6Q8FdmawZ1InKWQ/edit">
+           <input type = "submit" value="If You Want To Make A Complaint, Press This Button" />
+       </form>
+     </body>
 
 </html>
+
 
 Code For The Picture Websites:
 
@@ -83,51 +96,62 @@ By: Darren And Austin
 
 <img src="https://c.tenor.com/7dUZg_XP-NwAAAAC/winter-break-school-holidays.gif" alt="Trulli" width="400" height="333">
 
-<img src="https://media2.giphy.com/media/cdL6fpE1rm1XMhXabs/200.gif?cid=95b27944ee33c4ad5ed3b59e73a7c2cd784f8b9a8f6a07d1&rid=200.gif&ct=ts" alt="Trulli" width="400" height="333">
+<img src="https://lh3.googleusercontent.com/bDcszDOAWZghQwhaFhqXPHaRATNp3OMN07vkWaQBg5FAUQ3Ny857U9s1WEVe4t72RCs0jIkX0yuBsj4=w1898-h826" alt="Trulli" width="700" height="333">
 
-<img src="https://lh3.googleusercontent.com/-LLP_b7gmXfE/YaE3y0Z-PNI/AAAAAAAAAvM/lDO5hEsF4xQ6OoG945DIO2SZrUmXYwXtACMACGAYYCw/s1280/pixton-class-photo-ms-p-s-grade-6-7-class%2B%25283%2529.png" alt="Trulli" width="740" height="333">
+<img src="https://media2.giphy.com/media/cdL6fpE1rm1XMhXabs/200.gif?cid=95b27944ee33c4ad5ed3b59e73a7c2cd784f8b9a8f6a07d1&rid=200.gif&ct=ts" alt="Trulli" width="400" height="333">
 
 </body>
 </html>
 
-Code For The Wrong Password Website:
+
+Code For The Wrong Password Websites:
 
 <!DOCTYPE html>
 <html>
 
-  <head>
 
-    <title> Welcome </title>
-  </head>
 
     <body style="background-color:red;">
 
     <h1> You Are A Hacker. Get Out Of Here </h1>
     <p><a href="alarm.html"> Press If You Are Hacking </a></p>
     <p><a href="freetogo.html"> Press If You Accidentally Made A Typo </a></p>
+    <p><a href="sorry.html"> Press If You Are Not Hacking And You Didn't Make A Typo </a></p>
+    <form
+      action="https://docs.google.com/forms/d/17G2anm8Rsk7kFBZdom18DWrfpSnj6Q8FdmawZ1InKWQ/edit">
+        <input type = "submit" value="If You Want To Make A Complaint, Press This Button" />
+    </form>
   </body>
 
 </html>
 
 <!DOCTYPE html>
   <html>
-    <body style="background-color:springgreen;">
-      <img src="https://media4.giphy.com/media/Xpj7V61MQ4wEQRub8c/200.gif" alt="Trulli" width="450" height="350">
-      <img src="https://c.tenor.com/9CcFkFhou40AAAAM/twin-peaks-old-people-typing.gif" alt="Trulli" width="450" height="350">
-      <p style="background-color:khaki;"> You May Be Bad At Typing, But At Least You Didn't Hack </p>
-      <p style="background-color:khaki;"> By: Darren And Austin </p>
-      <p><a href="index.html"> Try Again </a></p>
+    <body style="background-color:tomato;">
+      <img src="https://i.gifer.com/origin/df/df2194fd5e3df54b35dff3b540daefc7_w200.gif" alt="Trulli" width="450" height="350">
+      <img src="https://c.tenor.com/QP_lUm-HZVUAAAAC/under-arrest-youre-under-arrest.gif" alt="Trulli" width="450" height="350">
+      <p style="background-color:khaki;"> You Should Be Ashamed Of Yourself </p>
+      <p style="background-color:khaki;"> By: X And Y (Because We Aren't Giving Our Names To A Hacker) </p>
+      <p><a href="punishment.html"> Try Again, Just Don't Hack This Time </a></p>
+      <form
+        action="https://docs.google.com/forms/d/17G2anm8Rsk7kFBZdom18DWrfpSnj6Q8FdmawZ1InKWQ/edit">
+          <input type = "submit" value="If You Want To Make A Complaint, Press This Button" />
+      </form>
     </body>
   </html>
 
 	<!DOCTYPE html>
 	  <html>
-	    <body style="background-color:tomato;">
-	      <img src="https://i.gifer.com/origin/df/df2194fd5e3df54b35dff3b540daefc7_w200.gif" alt="Trulli" width="450" height="350">
-	      <img src="https://c.tenor.com/QP_lUm-HZVUAAAAC/under-arrest-youre-under-arrest.gif" alt="Trulli" width="450" height="350">
-	      <p style="background-color:khaki;"> You Should Be Ashamed Of Yourself </p>
-	      <p style="background-color:khaki;"> By: Darren And Austin </p>
-	      <p><a href="punishment.html"> Try Again, Just Don't Hack This Time </a></p>
+	    <body style="background-color:springgreen;">
+	      <img src="https://media4.giphy.com/media/Xpj7V61MQ4wEQRub8c/200.gif" alt="Trulli" width="450" height="350">
+	      <img src="https://c.tenor.com/9CcFkFhou40AAAAM/twin-peaks-old-people-typing.gif" alt="Trulli" width="450" height="350">
+	      <p style="background-color:khaki;"> You May Be Bad At Typing, But At Least You Didn't Hack </p>
+	      <p style="background-color:khaki;"> Take A Typing Class </p>
+	      <p><a href="index.html"> Try Again </a></p>
+	      <form
+	        action="https://docs.google.com/forms/d/17G2anm8Rsk7kFBZdom18DWrfpSnj6Q8FdmawZ1InKWQ/edit">
+	          <input type = "submit" value="If You Want To Make A Complaint, Press This Button" />
+	      </form>
 	    </body>
 	  </html>
 
@@ -137,11 +161,67 @@ Code For The Wrong Password Website:
 		  <h1>Just Kidding</h1>
 		  <h3>We Don't Let Hackers Off The Hook That Easy...</h3>
 		  <img src="https://media3.giphy.com/media/kf8lUhHQnc2DuA6MzI/200.gif" alt="Trulli" width="450" height="350">
-		  <h3>We Hope You Have Learnt Your Lesson</h3>
+		  <h3>We Hope You Have Learnt Your Lesson</h3><br />
 		  <p><a href="index.html"> Try Again, For Real This Time </a></p>
+		  <form
+		    action="https://docs.google.com/forms/d/17G2anm8Rsk7kFBZdom18DWrfpSnj6Q8FdmawZ1InKWQ/edit">
+		      <input type = "submit" value="If You Want To Make A Complaint, Press This Button" />
+		  </form>
 		    </body>
 		  </html>
 
+			<!DOCTYPE html>
+			<body style="background-color:khaki;">
+			<h1>
+			  Welcome!<br />
+			  Sorry For The Inconvenience And For Assuming That You Are A Hacker Or A Bad Typer.
+			</h1>
+			<p><a href="polite.html"> Let Me In Right Now! </a></p>
+			<p><a href="index.html"> May I Login Again Please? </a></p><br />
+			<img src="https://c.tenor.com/puMSd7LWf7wAAAAM/puppy-eyes.gif" alt="Trulli" width="400" height="333"><br />
+			<form
+			  action="https://docs.google.com/forms/d/17G2anm8Rsk7kFBZdom18DWrfpSnj6Q8FdmawZ1InKWQ/edit">
+			    <input type = "submit" value="If You Want To Make A Complaint, Press This Button" />
+			</form>
+			</body>
+
+			<h1>
+			  <font face = "Comic Sans MS" size = "7" color = "white">Mind Your Manners!</font><br />
+			  <font face = "Comic Sans MS" size = "7" color = "white">Go Back And Say Please!</font><br />
+			</h1>
+			<body style="background-color:black;">
+			<img src="https://c.tenor.com/5RkPke22U38AAAAC/the-office-steve-carell.gif" alt="Trulli" width="500" height="400">
+			<img src="https://c.tenor.com/MSYyrF-zU5MAAAAd/grumpy-mad.gif" alt="Trulli" width="400" height="300">
+			<p><a href="sorry.html"> Try Again And Use Your Manners </a></p>
+
+			Yifan And Sue:
+
+			<!DOCTYPE html>
+			  <head>
+			    <body background="https://i.swncdn.com/media/980w/cms/CW/54992-church-ThinkstockPhotos-139605937.1200w.tn.jpg">
+			      <font face = "Comic sans MS" size = "7" color = "white">Yifan's Corner</font><br />
+			      <font face = "Comic sans MS" size = "7=5" color = "white">Watch Out For Yifan's Website!</font><br />
+			    </body>
+			  </head>
+
+				<!DOCTYPE html>
+				<html>
+
+
+
+				    <body style="background-color:red;">
+
+				    <h1> You Are A Hacker. Get Out Of Here </h1>
+				    <p><a href="alarm.html"> Press If You Are Hacking </a></p>
+				    <p><a href="freetogo.html"> Press If You Accidentally Made A Typo </a></p>
+				    <p><a href="sorry.html"> Press If You Are Not Hacking And You Didn't Make A Typo </a></p>
+				    <form
+				      action="https://docs.google.com/forms/d/17G2anm8Rsk7kFBZdom18DWrfpSnj6Q8FdmawZ1InKWQ/edit">
+				        <input type = "submit" value="If You Want To Make A Complaint, Press This Button" />
+				    </form>
+				  </body>
+
+				</html>
 
 
 
